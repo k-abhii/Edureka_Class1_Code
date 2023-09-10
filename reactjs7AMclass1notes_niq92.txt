@@ -1,0 +1,35 @@
+CSS -  Css 3 latest verison
+Javascript - ECMAScript® 2023  | ES14 - Current version
+
+Javascript - ECMAScript® 2015  | ES6 - Popular version or most browser and compiler supported version
+
+ECMA- Eureopean computer manufactures association
+
+https://www.w3.org/ determines versions to be released
+
+samir.sahu@edureka.co
+
+mandatory softwares 
+1. nodejs needs to installed  https://nodejs.org/en/download/releases atleast version 16 and above
+2. vs code installer link https://code.visualstudio.com/
+
+
+
+npm - node package manager
+
+npm init - to create starter package.json
+npm install/i  <packagename> 
+npm install/i  <packagename>@version  - downlaods the packages registered in npmjs.com
+npm i <packagename>@version --save-dev
+npm i -g <packagename>  C:\Users\<username>\AppData\Roaming\npm\node_modules
+
+
+ nvm - node version manger - helps in swithcing various version of node for packages
+ npx <package>@version package command
+
+npx create-react-app <projectname>
+
+
+
+
+
